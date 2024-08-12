@@ -1,0 +1,14 @@
+D:\Developer_Bootcamp\code_samples\7.OOP\13_OOP\bin\Debug\net8.0\OOPSample.exe
+D:\Developer_Bootcamp\code_samples\7.OOP\13_OOP\bin\Debug\net8.0\OOPSample.deps.json
+D:\Developer_Bootcamp\code_samples\7.OOP\13_OOP\bin\Debug\net8.0\OOPSample.runtimeconfig.json
+D:\Developer_Bootcamp\code_samples\7.OOP\13_OOP\bin\Debug\net8.0\OOPSample.dll
+D:\Developer_Bootcamp\code_samples\7.OOP\13_OOP\bin\Debug\net8.0\OOPSample.pdb
+D:\Developer_Bootcamp\code_samples\7.OOP\13_OOP\obj\Debug\net8.0\OOPSample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Developer_Bootcamp\code_samples\7.OOP\13_OOP\obj\Debug\net8.0\OOPSample.AssemblyInfoInputs.cache
+D:\Developer_Bootcamp\code_samples\7.OOP\13_OOP\obj\Debug\net8.0\OOPSample.AssemblyInfo.cs
+D:\Developer_Bootcamp\code_samples\7.OOP\13_OOP\obj\Debug\net8.0\OOPSample.csproj.CoreCompileInputs.cache
+D:\Developer_Bootcamp\code_samples\7.OOP\13_OOP\obj\Debug\net8.0\OOPSample.dll
+D:\Developer_Bootcamp\code_samples\7.OOP\13_OOP\obj\Debug\net8.0\refint\OOPSample.dll
+D:\Developer_Bootcamp\code_samples\7.OOP\13_OOP\obj\Debug\net8.0\OOPSample.pdb
+D:\Developer_Bootcamp\code_samples\7.OOP\13_OOP\obj\Debug\net8.0\OOPSample.genruntimeconfig.cache
+D:\Developer_Bootcamp\code_samples\7.OOP\13_OOP\obj\Debug\net8.0\ref\OOPSample.dll
